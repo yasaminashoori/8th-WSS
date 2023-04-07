@@ -26,7 +26,8 @@ This event comprises presentations and roundtable discussions covering various s
 <ul>
 <p>Scientific</p>
 <hr>
-<li>Mahdi Akhi</li>
+<li>
+<a href="https://github.com/mahdiAkhi">Mahdi Akhi</a></li>
 <li>Mehrab Moradzadeh</li>
 <li>Mohammad-Mahdi Samiei</li>
 <li>Mehran Moeini Jam</li>
