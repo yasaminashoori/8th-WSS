@@ -12,7 +12,7 @@ Twitter :
 
 Telegram : 
 
-This repo belongs to the Sharif University Winter Seminar Series and includes summary of the seminars, links, resources and other useful things related to the 8th WSS.
+:red_circle: NOTE: this repo belongs to the Sharif University Winter Seminar Series and includes summary of the seminars, links, resources and other useful things related to the 8th WSS.
 
 ## Many Thanks to all those who worked hard for these seminars :heart:
 <ul>
