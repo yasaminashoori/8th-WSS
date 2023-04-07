@@ -21,6 +21,15 @@ WSS was initiated 8 years ago by the Student Scientific Chapter at Sharif Univer
 
 This event comprises presentations and roundtable discussions covering various science and engineering topics. It provides a platform for networking and exchange of knowledge among participants with a shared interest in computer science and engineering.
 
+## You can access to the details of each seminar form it's folder.
+<a href="">DAY1</a>
+
+<a href="">DAY1</a>
+
+<a href="">DAY1</a>
+
+<a href="">DAY1</a>
+
 
 ## Many Thanks to all those who worked hard for these seminars :heart:
 <ul>
