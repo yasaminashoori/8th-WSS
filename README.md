@@ -38,7 +38,6 @@ This event comprises presentations and roundtable discussions covering various s
 <hr>
 <p>Scientific</p>
 <ul>
-<!-- <a href="https://github.com/mahdiAkhi">Mahdi Akhi</a></li> -->
 <li>Mehrab Moradzadeh</li>
 <li>Mohammad-Mahdi Samiei</li>
 <li>Mehran Moeini Jam</li>
@@ -46,6 +45,7 @@ This event comprises presentations and roundtable discussions covering various s
 <li>Farbod Shahinfar</li>
 <li>Alireza Haqi</li>
 <li>Seyed Parsa Neshaei</li>
+<a href="https://github.com/mahdiAkhi">Mahdi Akhi</a></li>
 <li><a href="">Ali Salesi</a></li>
 <li><a href="">Mohamadreza Fereydooni</a></li>
 <li><a href="">Parham Saremi</a></li>
@@ -57,7 +57,7 @@ This event comprises presentations and roundtable discussions covering various s
 <hr>
 <ul>
 <li>
-<a href="https://github.com/mahdiAkhi">Soheil Fadaee</a></li>
+<a href="">Soheil Fadaee</a></li>
 <li>Sina Elahimanesh</li>
 <li>Mohammad Mosayebi</li>
 <li>Amirmahdi Namjoo</li>
