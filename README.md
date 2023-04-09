@@ -45,7 +45,7 @@ This event comprises presentations and roundtable discussions covering various s
 <li>Farbod Shahinfar</li>
 <li>Alireza Haqi</li>
 <li>Seyed Parsa Neshaei</li>
-<a href="https://github.com/mahdiAkhi">Mahdi Akhi</a></li>
+<li><a href="https://github.com/mahdiAkhi">Mahdi Akhi</a></li>
 <li><a href="">Ali Salesi</a></li>
 <li><a href="">Mohamadreza Fereydooni</a></li>
 <li><a href="">Parham Saremi</a></li>
