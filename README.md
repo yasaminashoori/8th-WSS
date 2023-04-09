@@ -31,7 +31,6 @@ This event comprises presentations and roundtable discussions covering various s
 <hr>
 <ul>
 <li>
-<a href="https://github.com/mahdiAkhi">Mahdi Akhi</a></li>
 <li>Sina Elahimanesh</li>
 <li>Mohammad Mosayebi</li>
 <li>Amirmahdi Namjoo</li>
