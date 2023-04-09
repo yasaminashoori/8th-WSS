@@ -27,7 +27,17 @@ This event comprises presentations and roundtable discussions covering various s
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY2/Arash-Pourdamghani">DAY2</a>
 
 ## Many Thanks to all those who worked hard for these seminars :heart:
-<!-- <p>Scientific</p>
+<p>Organizer</p>
+<hr>
+<ul>
+<li>
+<a href="https://github.com/mahdiAkhi">Mahdi Akhi</a></li>
+<li>Sina Elahimanesh</li>
+<li>Mohammad Mosayebi</li>
+<li>Amirmahdi Namjoo</li>
+<li>Iman Mohammadi</li>
+
+<p>Scientific</p>
 <hr>
 <ul>
 <li>
@@ -46,16 +56,6 @@ This event comprises presentations and roundtable discussions covering various s
 <li><a href="">Shayan Talaei</a></li>
 </ul>
 
-<p>Organizer</p>
-<hr>
-<ul>
-<li>
-<a href="https://github.com/mahdiAkhi">Mahdi Akhi</a></li>
-<li>Sina Elahimanesh</li>
-<li>Mohammad Mosayebi</li>
-<li>Amirmahdi Namjoo</li>
-<li>Iman Mohammadi</li>
-
 <p>Content</p>
 <hr>
 <ul>
@@ -66,4 +66,4 @@ This event comprises presentations and roundtable discussions covering various s
 <li>Amirmahdi Namjoo</li>
 <li>Iman Mohammadi</li>
 
- -->
+
