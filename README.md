@@ -27,7 +27,7 @@ This event comprises presentations and roundtable discussions covering various s
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY2/Arash-Pourdamghani">DAY2</a>
 
 ## Many Thanks to all those who worked hard for these seminars :heart:
-<hr>Edit
+<hr>
 <p>Organizer</p>
 <ul>
 <li>Sina Elahimanesh</li>
