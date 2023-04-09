@@ -27,18 +27,18 @@ This event comprises presentations and roundtable discussions covering various s
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY2/Arash-Pourdamghani">DAY2</a>
 
 ## Many Thanks to all those who worked hard for these seminars :heart:
+<hr>Edit
 <p>Organizer</p>
-<hr>
 <ul>
 <li>Sina Elahimanesh</li>
 <li>Mohammad Mosayebi</li>
 <li>Amirmahdi Namjoo</li>
 <li>Iman Mohammadi</li>
 
-<p>Scientific</p>
 <hr>
+<p>Scientific</p>
 <ul>
-<a href="https://github.com/mahdiAkhi">Mahdi Akhi</a></li>
+<!-- <a href="https://github.com/mahdiAkhi">Mahdi Akhi</a></li> -->
 <li>Mehrab Moradzadeh</li>
 <li>Mohammad-Mahdi Samiei</li>
 <li>Mehran Moeini Jam</li>
