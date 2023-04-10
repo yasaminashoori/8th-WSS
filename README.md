@@ -2,7 +2,7 @@
 
 <img
   src="/assets/WSS.jpg"
-  alt="Alt text"
+  alt="WSS"
   style="display: inline-block; margin: 0 auto; width: 100%">
 
 # Socials of WSS :
