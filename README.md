@@ -28,42 +28,6 @@ This event comprises presentations and roundtable discussions covering various s
 
 ## Many Thanks to all those who worked hard for these seminars :heart:
 <hr>
-<!-- <p>Organizer</p>
-<ul>
-<li>Sina Elahimanesh</li>
-<li>Mohammad Mosayebi</li>
-<li>Amirmahdi Namjoo</li>
-<li>Iman Mohammadi</li>
-
-<hr>
-<p>Scientific</p>
-<ul>
-<li>Mehrab Moradzadeh</li>
-<li>Mohammad-Mahdi Samiei</li>
-<li>Mehran Moeini Jam</li>
-<li>Amirhossein Hadian</li>
-<li>Farbod Shahinfar</li>
-<li>Alireza Haqi</li>
-<li>Seyed Parsa Neshaei</li>
-<li><a href="https://github.com/mahdiAkhi">Mahdi Akhi</a></li>
-<li><a href="">Ali Salesi</a></li>
-<li><a href="">Mohamadreza Fereydooni</a></li>
-<li><a href="">Parham Saremi</a></li>
-<li><a href="">Mahdi Ghaznavi</a></li>
-<li><a href="">Shayan Talaei</a></li>
-</ul>
-
-<p>Content</p>
-<hr>
-<ul>
-<li>
-<a href="">Soheil Fadaee</a></li>
-<li>Sina Elahimanesh</li>
-<li>Mohammad Mosayebi</li>
-<li>Amirmahdi Namjoo</li>
-<<<<<<< HEAD
-<li>Iman Mohammadi</li>
-
 <table>
   <tbody>
     <thead>
@@ -200,4 +164,4 @@ This event comprises presentations and roundtable discussions covering various s
     </tr>
   </tbody>
 </table>
->>>>>>> f59255d66bc99773f357412ceae8a628220e3092
+
