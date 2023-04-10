@@ -65,7 +65,7 @@ This event comprises presentations and roundtable discussions covering various s
 
 
 
-| First Header  | Second Header |
+| Organizer  |  |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
