@@ -64,12 +64,6 @@ This event comprises presentations and roundtable discussions covering various s
 <<<<<<< HEAD
 <li>Iman Mohammadi</li>
 
-
-<<<<<<< HEAD
-=======
-=======
-<li>Iman Mohammadi</li> -->
->>>>>>> 881a7f363b27972048473efaded26231818d0940
 <table>
   <tbody>
     <thead>
