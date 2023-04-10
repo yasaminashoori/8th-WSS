@@ -55,7 +55,7 @@ This event comprises presentations and roundtable discussions covering various s
      <td align="center"><a href="https://www.linkedin.com/in/imanmohammadi02/?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Iman-Mohammadi.jpg" width="100px;" alt=""/><br /><sub><b>Iman Mohammadi</b></sub></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fhemberger"><img src="https://avatars.githubusercontent.com/u/153481?v=3?s=100" width="100px;" alt="F. Hemberger"/><br /><sub><b>F. Hemberger</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fhemberger" title="Documentation">📖</a></td>
+      <!-- <td align="center"><a href="https://github.com/fhemberger"><img src="https://avatars.githubusercontent.com/u/153481?v=3?s=100" width="100px;" alt="F. Hemberger"/><br /><sub><b>F. Hemberger</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fhemberger" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/frigginglorious"><img src="https://avatars.githubusercontent.com/u/3982200?v=3?s=100" width="100px;" alt="Daniel Kraft"/><br /><sub><b>Daniel Kraft</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=frigginglorious" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/mbad0la"><img src="https://avatars.githubusercontent.com/u/8503331?v=3?s=100" width="100px;" alt="Mayank Badola"/><br /><sub><b>Mayank Badola</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mbad0la" title="Documentation">📖</a> <a href="#tool-mbad0la" title="Tools">🔧</a></td>
       <td align="center"><a href="https://www.marcobiedermann.com"><img src="https://avatars.githubusercontent.com/u/5244986?v=3?s=100" width="100px;" alt="Marco Biedermann"/><br /><sub><b>Marco Biedermann</b></sub></a><br /><a href="#design-marcobiedermann" title="Design">🎨</a></td>
@@ -161,7 +161,7 @@ This event comprises presentations and roundtable discussions covering various s
       <td align="center"><a href="roshanjossey.github.io"><img src="https://avatars.githubusercontent.com/u/8488446?v=4?s=100" width="100px;" alt="Roshan Jossy"/><br /><sub><b>Roshan Jossy</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=Roshanjossey" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=Roshanjossey" title="Code">💻</a></td>
       <td align="center"><a href="https://www.sglavoie.com/"><img src="https://avatars.githubusercontent.com/u/32682903?v=4?s=100" width="100px;" alt="Sébastien Lavoie"/><br /><sub><b>Sébastien Lavoie</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author%3Asglavoie" title="Bug reports">🐛</a></td>
       <td align="center"><a href="https://github.com/NicolasGirondi"><img src="https://avatars.githubusercontent.com/u/78153799?v=4?s=100" width="100px;" alt="Nicolas Girondi"/><br /><sub><b>Nicolas Girondi</b></sub></a><br /><a href="#translation-NicolasGirondi" title="Translation">🌍</a></td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 
