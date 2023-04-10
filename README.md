@@ -64,8 +64,3 @@ This event comprises presentations and roundtable discussions covering various s
 <li>Iman Mohammadi</li>
 
 
-
-| Organizer  |  |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
