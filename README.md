@@ -88,7 +88,7 @@ This event comprises presentations and roundtable discussions covering various s
      <td align="center"><a href="https://github.com/mmsamiei"><img src="https://wss.ce.sharif.edu/media/staff/Mohammad-Mahdi-Samiei.jpg" width="100px;" alt=""/><br /><sub><b>Mohammad-Mahdi Samiei</b></sub></a></td>
     </tr>
      <tr>
-        <td colspan="4" align="center">Organizer</td>
+        <td colspan="8" align="center">Organizer</td>
       </tr>
     <tr>
       <td align="center"><a href="https://github.com/SinaElahimanesh"><img src="https://wss.ce.sharif.edu/media/staff/Sina-Elahimanesh.jpg" width="100px;" alt=""/><br /><sub><b>Sina Elahimanesh</b></sub></a></td>
