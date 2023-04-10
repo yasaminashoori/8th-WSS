@@ -74,23 +74,27 @@ This event comprises presentations and roundtable discussions covering various s
   <tbody>
     <thead>
       <tr>
-        <td colspan="4" align="center">Organizer</td>
+        <td colspan="8" align="center">Scientific</td>
       </tr>
     </thead>
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/mehran-moeini-a8b9b7a3/?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Mehran-Moeini-Jam.jpg" width="100px;" alt=""/><br /><sub><b>Mehran Moeini Jam</b></sub></a></td>
+     <td align="center"><a href="https://www.linkedin.com/in/mohammad-mosayebi-26454757?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Amirhossein-Hadian.jpg" width="100px;" alt=""/><br /><sub><b>Amirhossein Hadian</b></sub></a></td>
+    <td align="center"><a href="https://github.com/mahdiAkhi"><img src="https://wss.ce.sharif.edu/media/staff/Mahdi-Akhi.jpg" width="100px;" alt=""/><br /><sub><b>Mahdi Akhi</b></sub></a></td>
+     <td align="center"><a href="https://ir.linkedin.com/in/moradzadeh1999"><img src="https://wss.ce.sharif.edu/media/staff/Mehrab-Moradzadeh.jpg" width="100px;" alt=""/><br /><sub><b>Mehrab Moradzadeh</b></sub></a></td>
+     <td align="center"><a href="https://github.com/fshahinfar1"><img src="https://wss.ce.sharif.edu/media/staff/Farbod-Shahinfar.jpg" width="100px;" alt=""/><br /><sub><b>Farbod Shahinfar</b></sub></a></td>
+     <td align="center"><a href="https://uk.linkedin.com/in/alireza-haghi-64a59664"><img src="https://wss.ce.sharif.edu/media/staff/Alireza-Haqi.jpg" width="100px;" alt=""/><br /><sub><b>Alireza Haqi</b></sub></a></td>
+     <td align="center"><a href="https://github.com/spneshaei"><img src="https://wss.ce.sharif.edu/media/staff/Seyed-Parsa-Neshaei.jpg" width="100px;" alt=""/><br /><sub><b>Seyed Parsa Neshaei</b></sub></a></td>
+     <td align="center"><a href="https://github.com/mmsamiei"><img src="https://wss.ce.sharif.edu/media/staff/Mohammad-Mahdi-Samiei.jpg" width="100px;" alt=""/><br /><sub><b>Mohammad-Mahdi Samiei</b></sub></a></td>
+    </tr>
+     <tr>
+        <td colspan="4" align="center">Organizer</td>
+      </tr>
     <tr>
       <td align="center"><a href="https://github.com/SinaElahimanesh"><img src="https://wss.ce.sharif.edu/media/staff/Sina-Elahimanesh.jpg" width="100px;" alt=""/><br /><sub><b>Sina Elahimanesh</b></sub></a></td>
      <td align="center"><a href="https://www.linkedin.com/in/mohammad-mosayebi-26454757?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Mohammad-Mosayebi.jpg" width="100px;" alt=""/><br /><sub><b>Mohammad Mosayebi</b></sub></a></td>
     <td align="center"><a href="https://github.com/titansarus"><img src="https://wss.ce.sharif.edu/media/staff/Amirmahdi-Namjoo.jpg" width="100px;" alt=""/><br /><sub><b>Amirmahdi Namjoo</b></sub></a></td>
      <td align="center"><a href="https://www.linkedin.com/in/imanmohammadi02/?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Iman-Mohammadi.jpg" width="100px;" alt=""/><br /><sub><b>Iman Mohammadi</b></sub></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://robertlluberes.com"><img src="https://avatars1.githubusercontent.com/u/13991439?v=4?s=100" width="100px;" alt="Robert Lluberes"/><br /><sub><b>Robert Lluberes</b></sub></a><br /><a href="#translation-robertlluberes" title="Translation">🌍</a></td>
-      <td align="center"><a href="https://jongjineee.github.io"><img src="https://avatars2.githubusercontent.com/u/26620470?v=4?s=100" width="100px;" alt="이종진"/><br /><sub><b>이종진</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=Jongjineee" title="Documentation">📖</a> <a href="#translation-Jongjineee" title="Translation">🌍</a></td>
-      <td align="center"><a href="http://marsx.vip"><img src="https://avatars2.githubusercontent.com/u/21303543?v=4?s=100" width="100px;" alt="Wenqing Xue"/><br /><sub><b>Wenqing Xue</b></sub></a><br /><a href="#translation-MarsXue" title="Translation">🌍</a></td>
-      <td align="center"><a href="http://bogas04.github.io"><img src="https://avatars.githubusercontent.com/u/6177621?v=3?s=100" width="100px;" alt="Divjot Singh"/><br /><sub><b>Divjot Singh</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=bogas04" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Abogas04" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center"><a href="http://beneb.info"><img src="https://avatars.githubusercontent.com/u/1282980?v=3?s=100" width="100px;" alt="Ben Briggs"/><br /><sub><b>Ben Briggs</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=ben-eb" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Aben-eb" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center"><a href="https://github.com/Jameskmonger"><img src="https://avatars.githubusercontent.com/u/2037007?v=3?s=100" width="100px;" alt="James Monger"/><br /><sub><b>James Monger</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=Jameskmonger" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/chrissimpkins"><img src="https://avatars.githubusercontent.com/u/4249591?v=3?s=100" width="100px;" alt="Chris Simpkins"/><br /><sub><b>Chris Simpkins</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=chrissimpkins" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Achrissimpkins" title="Reviewed Pull Requests">👀</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fhemberger"><img src="https://avatars.githubusercontent.com/u/153481?v=3?s=100" width="100px;" alt="F. Hemberger"/><br /><sub><b>F. Hemberger</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fhemberger" title="Documentation">📖</a></td>
