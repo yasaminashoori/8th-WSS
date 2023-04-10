@@ -12,7 +12,7 @@ Twitter :
 
 Telegram : 
 
-:red_circle: NOTE: this repo belongs to the Sharif University Winter Seminar Series and includes summary of the seminars, papers, links, resources and other useful things related to the 8th WSS.
+:red_circle:<b>NOTE:</b> this repo belongs to the Sharif University Winter Seminar Series and includes summary of the seminars, papers, links, resources and other useful things related to the 8th WSS.
 
 ## About WSS :
 The Winter Seminar Series (WSS) has been established to bring together successful Iranians from around the world and build a professional community focused on computer science and engineering topics. Over the years, this seminar has grown to become one of the premier events at the Sharif University of Technology. WSS is open to anyone who works in or is interested in computer science topics and seeks to share and express their ideas and research.
