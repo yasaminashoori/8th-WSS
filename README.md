@@ -28,7 +28,7 @@ This event comprises presentations and roundtable discussions covering various s
 
 ## Many Thanks to all those who worked hard for these seminars :heart:
 <hr>
-<p>Organizer</p>
+<!-- <p>Organizer</p>
 <ul>
 <li>Sina Elahimanesh</li>
 <li>Mohammad Mosayebi</li>
@@ -61,9 +61,7 @@ This event comprises presentations and roundtable discussions covering various s
 <li>Sina Elahimanesh</li>
 <li>Mohammad Mosayebi</li>
 <li>Amirmahdi Namjoo</li>
-<li>Iman Mohammadi</li>
-
-
+<li>Iman Mohammadi</li> -->
 <table>
   <tbody>
     <thead>
@@ -73,7 +71,7 @@ This event comprises presentations and roundtable discussions covering various s
     </thead>
     <tr>
       <td align="center"><a href="https://github.com/SinaElahimanesh"><img src="https://wss.ce.sharif.edu/media/staff/Sina-Elahimanesh.jpg" width="100px;" alt=""/><br /><sub><b>Sina Elahimanesh</b></sub></a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/mohammad-mosayebi-26454757?originalSubdomain=ir"><imgsrc="https://wss.ce.sharif.edu/media/staff/Mohammad-Mosayebi.jpg" width="100px;" alt=""/><br /><sub><b>Mohammad Mosayebi</b></sub></a></td>
+     <td align="center"><a href="https://www.linkedin.com/in/mohammad-mosayebi-26454757?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Mohammad-Mosayebi.jpg" width="100px;" alt=""/><br /><sub><b>Mohammad Mosayebi</b></sub></a></td>
       <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt="Jeroen Engels"/><br /><sub><b>Jeroen Engels</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jfmengels" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajfmengels" title="Reviewed Pull Requests">👀</a> <a href="#tool-jfmengels" title="Tools">🔧</a></td>
       <td align="center"><a href="https://jakebolam.com"><img src="https://avatars2.githubusercontent.com/u/3534236?v=4?s=100" width="100px;" alt="Jake Bolam"/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jakebolam" title="Documentation">📖</a> <a href="#tool-jakebolam" title="Tools">🔧</a> <a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-jakebolam" title="Maintenance">🚧</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajakebolam" title="Reviewed Pull Requests">👀</a> <a href="#question-jakebolam" title="Answering Questions">💬</a></td>
       <td align="center"><a href="https://github.com/tbenning"><img src="https://avatars2.githubusercontent.com/u/7265547?v=4?s=100" width="100px;" alt="Tyler Benning"/><br /><sub><b>Tyler Benning</b></sub></a><br /><a href="#maintenance-tbenning" title="Maintenance">🚧</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=tbenning" title="Code">💻</a> <a href="#design-tbenning" title="Design">🎨</a></td>
