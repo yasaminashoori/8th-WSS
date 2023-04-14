@@ -43,7 +43,7 @@ This event comprises presentations and roundtable discussions covering various s
     <tr>
       <td align="center"><a href="https://www.linkedin.com/in/mehran-moeini-a8b9b7a3/?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Mehran-Moeini-Jam.jpg" width="100px;" alt=""/><br /><sub><b>Mehran Moeini Jam</b></sub></a></td>
      <td align="center"><a href="https://www.linkedin.com/in/mohammad-mosayebi-26454757?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Amirhossein-Hadian.jpg" width="100px;" alt=""/><br /><sub><b>Amirhossein Hadian</b></sub></a></td>
-    <td align="center"><a href="https://github.com/mahdiAkhi"><img src="https://wss.ce.sharif.edu/media/staff/Mahdi-Akhi.jpg" width="50px;" alt=""/><br /><sub><b>Mahdi Akhi</b></sub></a></td>
+    <td align="center"><a href="https://github.com/mahdiAkhi"><img src="https://wss.ce.sharif.edu/media/staff/Mahdi-Akhi.jpg" width="100px;" alt=""/><br /><sub><b>Mahdi Akhi</b></sub></a></td>
      <td align="center"><a href="https://ir.linkedin.com/in/moradzadeh1999"><img src="https://wss.ce.sharif.edu/media/staff/Mehrab-Moradzadeh.jpg" width="100px;" alt=""/><br /><sub><b>Mehrab Moradzadeh</b></sub></a></td>
      <td align="center"><a href="https://github.com/fshahinfar1"><img src="https://wss.ce.sharif.edu/media/staff/Farbod-Shahinfar.jpg" width="100px;" alt=""/><br /><sub><b>Farbod Shahinfar</b></sub></a></td>
      <td align="center"><a href="https://uk.linkedin.com/in/alireza-haghi-64a59664"><img src="https://wss.ce.sharif.edu/media/staff/Alireza-Haqi.jpg" width="100px;" alt=""/><br /><sub><b>Alireza Haqi</b></sub></a></td>
