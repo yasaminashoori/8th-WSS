@@ -24,12 +24,20 @@ WSS was initiated 8 years ago by the Student Scientific Chapter at Sharif Univer
 This event comprises presentations and roundtable discussions covering various science and engineering topics. It provides a platform for networking and exchange of knowledge among participants with a shared interest in computer science and engineering.
 
 ## You can access to the details of each seminar form it's folder.
-<!-- <img src=""assets\Images\Fs-y6wdWIAM2EFb.jfif> -->
+
+<img src="assets\Images\Fs-y6wdWIAM2EFb.jpg">
+
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY1">DAY1</a>
+
+<img src="assets\Images\1681378502489.jpg">
 
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY2/Arash-Pourdamghani">DAY2</a>
 
+<img src="assets\Images\1681378502463.jpg">
+
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY3">DAY3</a>
+
+<img src="assets\Images\1681378502476.jpg">
 
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY4">DAY4</a>
 
