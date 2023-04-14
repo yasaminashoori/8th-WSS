@@ -1,7 +1,7 @@
 ## :mount_fuji: 8th Winter Seminar Series of Sharif University 
 
 <img
-  src="/assets/WSS.jpg"
+  src="assets\Images\WSS.jpg"
   alt="WSS"
   style="display: inline-block; margin: 0 auto; width: 100%">
 
