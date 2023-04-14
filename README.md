@@ -25,9 +25,6 @@ This event comprises presentations and roundtable discussions covering various s
 
 ## You can access to the details of each seminar form it's folder.
 
-
-<img src="assets\Images\Fs-y6wdWIAM2EFb.jpg" width="50%">
-
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY1">DAY1</a>
 
 <img src="assets\Images\Fs-y6wdWIAM2EFb.jpg" width="50%">
