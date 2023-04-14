@@ -32,20 +32,20 @@ This event comprises presentations and roundtable discussions covering various s
 >>>>>>> 84b63ca656e03c33e624aa0c0a6008f9434567a4
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY1">DAY1</a>
 
-<img src="assets\Images\Fs-y6wdWIAM2EFb.jpg">
+<img src="assets\Images\Fs-y6wdWIAM2EFb.jpg" width="50%">
 
 
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY2/Arash-Pourdamghani">DAY2</a>
 
-<img src="assets\Images\1681378502489.jpg">
+<img src="assets\Images\1681378502489.jpg" width="50%">
 
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY3">DAY3</a>
 
-<img src="assets\Images\1681378502463.jpg">
+<img src="assets\Images\1681378502463.jpg" width="50%">
 
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY4">DAY4</a>
 
-<img src="assets\Images\1681378502476.jpg">
+<img src="assets\Images\1681378502476.jpg" width="50%">
 
 ## Many Thanks to all those who worked hard for these seminars :heart:
 <hr>
