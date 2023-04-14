@@ -8,7 +8,9 @@
 # Socials of WSS :
 :link: <a href="https://wss.ce.sharif.edu/" target="_blank">Website</a>
 
-Twitter : 
+<a href="https://twitter.com/WSS_SUT">Twitter</a>
+
+<a href="https://t.co/iG7qWv7cLV">Telegram</a>
 
 Telegram : 
 
