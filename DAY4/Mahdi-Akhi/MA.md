@@ -1,6 +1,6 @@
 # Human in the loop and reinforcement learning
 
-- <a href="">Download the presentation file</a>
+- <a href="https://drive.google.com/file/d/1Jr7BjM_iUFKbIiJE3skncwpRfsxpHh0O/view?usp=share_link">Download the presentation file </a>
 
 احتمالا همه سرویس های جدید هوش مصنوعی رو دیدید و براتون جالبه که بدونید جواب هایی رو میدن که تا حد خوبی دقیق و مورد انتظار شما هستن. 
  
