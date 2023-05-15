@@ -1,6 +1,7 @@
 # Human in the loop and reinforcement learning
 
 - <a href="https://drive.google.com/file/d/1Jr7BjM_iUFKbIiJE3skncwpRfsxpHh0O/view?usp=share_link">Download the presentation (pdf) file </a>
+- <a href="https://www.aparat.com/v/dvokq">Watch the full presentation</a>
 
 <hr>
 
