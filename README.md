@@ -12,8 +12,6 @@
 
  <a href="https://t.co/iG7qWv7cLV">Telegram</a>
 
-Telegram : 
-
 :red_circle:<b>NOTE:</b> this repo belongs to the Sharif University Winter Seminar Series and includes summary of the seminars, papers, links, resources and other useful things related to the 8th WSS.
 
 ## About WSS :
