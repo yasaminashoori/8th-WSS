@@ -57,13 +57,13 @@ This event comprises presentations and roundtable discussions covering various s
      <td align="center"><a href="https://github.com/mmsamiei"><img src="https://wss.ce.sharif.edu/media/staff/Mohammad-Mahdi-Samiei.jpg" width="100px;" alt=""/><br /><sub><b>Mohammad-Mahdi Samiei</b></sub></a></td>
     </tr>
      <tr>
-        <td colspan="8" align="center">Organizer</td>
+        <td colspan="8" align="center">Organizers</td>
       </tr>
     <tr>
       <td align="center"><a href="https://github.com/SinaElahimanesh"><img src="https://wss.ce.sharif.edu/media/staff/Sina-Elahimanesh.jpg" width="100px;" alt=""/><br /><sub><b>Sina Elahimanesh</b></sub></a></td>
-     <td align="center"><a href="https://www.linkedin.com/in/mohammad-mosayebi-26454757?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Mohammad-Mosayebi.jpg" width="100px;" alt=""/><br /><sub><b>Mohammad Mosayebi</b></sub></a></td>
+     <td align="center"><a href="https://github.com/m-moasa"><img src="https://wss.ce.sharif.edu/media/staff/Mohammad-Mosayebi.jpg" width="100px;" alt=""/><br /><sub><b>Mohammad Mosayebi</b></sub></a></td>
     <td align="center"><a href="https://github.com/titansarus"><img src="https://wss.ce.sharif.edu/media/staff/Amirmahdi-Namjoo.jpg" width="100px;" alt=""/><br /><sub><b>Amirmahdi Namjoo</b></sub></a></td>
-     <td align="center"><a href="https://www.linkedin.com/in/imanmohammadi02/?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Iman-Mohammadi.jpg" width="100px;" alt=""/><br /><sub><b>Iman Mohammadi</b></sub></a></td>
+     <td align="center"><a href="https://github.com/Imanm02"><img src="https://wss.ce.sharif.edu/media/staff/Iman-Mohammadi.jpg" width="100px;" alt=""/><br /><sub><b>Iman Mohammadi</b></sub></a></td>
     </tr>
     <tr>
       <!-- <td align="center"><a href="https://github.com/fhemberger"><img src="https://avatars.githubusercontent.com/u/153481?v=3?s=100" width="100px;" alt="F. Hemberger"/><br /><sub><b>F. Hemberger</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fhemberger" title="Documentation">📖</a></td>
