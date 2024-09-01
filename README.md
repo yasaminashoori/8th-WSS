@@ -5,23 +5,21 @@
   alt="WSS"
   style="display: inline-block; margin: 0 auto; width: 100%">
 
-# Socials of WSS :
-:link: <a href="https://wss.ce.sharif.edu/" target="_blank">Website</a>
+# WSS Social Media:
+:link: <a href="https://wss-sharif.com" target="_blank">Website</a></br>
+:link: <a href="https://x.com/WSS_SUT">Twitter</a></br>
+:link: <a href="https://t.me/WSS_SUT">Telegram</a>
 
- <a href="https://twitter.com/WSS_SUT">Twitter</a>
+:red_circle: <b>NOTE:</b> This repo belongs to the Sharif University Winter Seminar Series and includes a summary of the seminars, papers, links, resources, and other useful things related to the 8th WSS.
 
- <a href="https://t.co/iG7qWv7cLV">Telegram</a>
+## About WSS:
+The Winter Seminar Series (WSS) has been established to bring together successful Iranians worldwide and build a professional community focused on computer science and engineering topics. Over the years, this seminar has grown to become one of the premier events at the Sharif University of Technology. WSS is open to anyone who works in or is interested in computer science topics and seeks to share and express their ideas and research.
 
-:red_circle:<b>NOTE:</b> this repo belongs to the Sharif University Winter Seminar Series and includes summary of the seminars, papers, links, resources and other useful things related to the 8th WSS.
+WSS was initiated 8 years ago by the Student Scientific Chapter at the Sharif University of Technology as a global effort to connect expert researchers. Currently, WSS is a four-day event where speakers present their research and ideas each day while sharing their findings and teaching related topics.
 
-## About WSS :
-The Winter Seminar Series (WSS) has been established to bring together successful Iranians from around the world and build a professional community focused on computer science and engineering topics. Over the years, this seminar has grown to become one of the premier events at the Sharif University of Technology. WSS is open to anyone who works in or is interested in computer science topics and seeks to share and express their ideas and research.
+This event comprises presentations and roundtable discussions covering various science and engineering topics. It provides a platform for networking and knowledge exchange among participants with a shared interest in computer science and engineering.
 
-WSS was initiated 8 years ago by the Student Scientific Chapter at Sharif University of Technology as a global effort to connect expert researchers. Currently, WSS is held as a four-day event where speakers present their research and ideas each day, while also sharing their findings and teaching related topics.
-
-This event comprises presentations and roundtable discussions covering various science and engineering topics. It provides a platform for networking and exchange of knowledge among participants with a shared interest in computer science and engineering.
-
-## You can access to the details of each seminar form it's folder.
+## You can access the details of each seminar from its folder.
 
 :open_file_folder: <a href="https://github.com/yasaminashoori/8th-WSS/tree/main/DAY1">DAY1</a>
 
@@ -59,13 +57,13 @@ This event comprises presentations and roundtable discussions covering various s
      <td align="center"><a href="https://github.com/mmsamiei"><img src="https://wss.ce.sharif.edu/media/staff/Mohammad-Mahdi-Samiei.jpg" width="100px;" alt=""/><br /><sub><b>Mohammad-Mahdi Samiei</b></sub></a></td>
     </tr>
      <tr>
-        <td colspan="8" align="center">Organizer</td>
+        <td colspan="8" align="center">Organizers</td>
       </tr>
     <tr>
       <td align="center"><a href="https://github.com/SinaElahimanesh"><img src="https://wss.ce.sharif.edu/media/staff/Sina-Elahimanesh.jpg" width="100px;" alt=""/><br /><sub><b>Sina Elahimanesh</b></sub></a></td>
-     <td align="center"><a href="https://www.linkedin.com/in/mohammad-mosayebi-26454757?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Mohammad-Mosayebi.jpg" width="100px;" alt=""/><br /><sub><b>Mohammad Mosayebi</b></sub></a></td>
+     <td align="center"><a href="https://github.com/m-moasa"><img src="https://wss.ce.sharif.edu/media/staff/Mohammad-Mosayebi.jpg" width="100px;" alt=""/><br /><sub><b>Mohammad Mosayebi</b></sub></a></td>
     <td align="center"><a href="https://github.com/titansarus"><img src="https://wss.ce.sharif.edu/media/staff/Amirmahdi-Namjoo.jpg" width="100px;" alt=""/><br /><sub><b>Amirmahdi Namjoo</b></sub></a></td>
-     <td align="center"><a href="https://www.linkedin.com/in/imanmohammadi02/?originalSubdomain=ir"><img src="https://wss.ce.sharif.edu/media/staff/Iman-Mohammadi.jpg" width="100px;" alt=""/><br /><sub><b>Iman Mohammadi</b></sub></a></td>
+     <td align="center"><a href="https://github.com/Imanm02"><img src="https://wss.ce.sharif.edu/media/staff/Iman-Mohammadi.jpg" width="100px;" alt=""/><br /><sub><b>Iman Mohammadi</b></sub></a></td>
     </tr>
     <tr>
       <!-- <td align="center"><a href="https://github.com/fhemberger"><img src="https://avatars.githubusercontent.com/u/153481?v=3?s=100" width="100px;" alt="F. Hemberger"/><br /><sub><b>F. Hemberger</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fhemberger" title="Documentation">📖</a></td>
